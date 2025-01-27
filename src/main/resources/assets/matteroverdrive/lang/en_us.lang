@@ -611,7 +611,7 @@ biotic_stat.oxygen.details=Removes the need for oxygen.
 death.attack.phaser=%1$s was disintegrated by %2$s
 death.attack.phaser.item=%1$s was disintegrated by %2$s using %3$s
 death.attack.blackHole=%1$s was crushed by a Gravitational Anomaly
-death.attack.android_transformation=%1$s has ended his biological existence
+death.attack.android_transformation=%1$s has ended their biological existence
 death.attack.plasmaBolt=%1$s was shot by %2$s
 death.attack.plasmaBolt.item=%1$s was shot by %2$s using %3$s
 
